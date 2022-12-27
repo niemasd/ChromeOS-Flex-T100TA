@@ -14,8 +14,10 @@
 
 # Step 2: Install Chrome OS Flex
 1. Boot from Chrome OS Flex USB
-2. I connected to WiFi once it got to the "Welcome to ChromeOS Flex" start page (bottom-right WiFi icon)
-3. Click "Get started"
-4. Make sure "Install ChromeOS Flex" is checked, and click "Next"
-5. Click "Install ChromeOS Flex"
-6. Click "Install"
+2. Click "Get started"
+3. Make sure "Install ChromeOS Flex" is checked, and click "Next"
+4. Click "Install ChromeOS Flex"
+5. Click "Install"
+6. When it finishes, the computer will automatically shut down after 60 seconds
+7. Remove the Chrome OS Flex USB and power on
+8. Set up the OS as desired
