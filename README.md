@@ -1,4 +1,4 @@
-# Create Installation USB
+# Step 1: Create Installation USB
 1. In Google Chrome, install the [Chromebook Recovery Utility](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en) extension
 2. Open the Chromebook Recovery Utility extension
 3. Click "Get started" at the bottom right
