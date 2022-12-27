@@ -9,3 +9,9 @@
 8. Select the desired USB flash drive from the "Select the media you'd like to use." dropdown
 9. Click "Continue" at the bottom right
 10. Click "Create now" at the bottom right
+11. When it finishes, click "Done" at the bottom right
+12. Eject the USB flash drive
+
+# Step 2: Install Chrome OS Flex
+1. Boot from Chrome OS Flex USB
+2. 
