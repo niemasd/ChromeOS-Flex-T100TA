@@ -14,4 +14,8 @@
 
 # Step 2: Install Chrome OS Flex
 1. Boot from Chrome OS Flex USB
-2. 
+2. I connected to WiFi once it got to the "Welcome to ChromeOS Flex" start page (bottom-right WiFi icon)
+3. Click "Get started"
+4. Make sure "Install ChromeOS Flex" is checked, and click "Next"
+5. Click "Install ChromeOS Flex"
+6. Click "Install"
